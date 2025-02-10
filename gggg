@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Valentina Valda</title>
+    <link rel="stylesheet" href="valentinavalda.css">
+</head>
+<body>
+    <div class="contenido">
+        <header>
+            <h1>Introducción Natalia Valentina Valda</h1>
+            <p>Estudiante de Ingeniería de Sistemas Informáticos</p>
+            <p>Segundo año en Uivalle Sucre</p>
+            <p>Nací en Sucre Bolivia un 12 de agosto de 2005, privilegiandome con un signo de fuego </p>
+        </header>
+        <section class="informajiji">
+            <h2>Sobre Tina</h2>
+            <p>¡Hola! Soy Valentina, apasionada por la danza, enamorada de los bailes típicos.</p>
+        </section>
+        <section class="cosillas">
+            <h2>Mi emprendimiento</h2>
+            <ul>
+                <li>Mi amor por el trabajo nace en 2023, cuando se consolidó mi primer emprendimiento</li>
+                <li>En 2022 a finales de año, nació Bad Bunny Vape Shop con 4 nombres alternativos</li>
+                <li>En 2022, a principios nace la idea maravillosa de tener mi primer emprendimiento vitual</li>
+                <li>En 2024 ya se consolidó el nombre y un lugar de entregas físico </li>
+                >hrf
+            </ul>
+        </section>
+        <footer>
+            <p>copyright ©</p>
+        </footer>
+    </div>
+</body>
+</html>
+
